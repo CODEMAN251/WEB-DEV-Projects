@@ -16,6 +16,7 @@ A simple, interactive calculator built using HTML, CSS, and JavaScript. The calc
 
 ## Screenshots
 
+![Calculator Screenshot](calculator.png)
 
 
 ## Getting Started
