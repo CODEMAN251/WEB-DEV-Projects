@@ -29,5 +29,5 @@ You don't need any special software to run this calculator; a modern web browser
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/javascript-calculator.git
-   cd javascript-calculator
+   git clone https://github.com/CODEMAN251/WEB-DEV-Projects.git
+   cd WEB-DEV-Projects
